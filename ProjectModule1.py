@@ -1,0 +1,2 @@
+print ("MENU UTAMA")
+print ("1. PENAMBAHAN MERCHANT")
